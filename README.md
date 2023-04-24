@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nevin06
 - 👀 I’m interested in REST APIs
-- 🌱 I’m currently learning ASP.NET MVC Architecture
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Responsive web design from freeCodeCamp.org
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me Mail me @ thomasnevink@gmail.com
 
 <!---
